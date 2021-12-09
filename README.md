@@ -109,6 +109,9 @@
 [020.如何使用Java7提供的ForkJoin框架实现高并发程序？.md](docs/concurrent/view/020.如何使用Java7提供的ForkJoin框架实现高并发程序？.md)
 
 
+## Java8系列
+
+[Java8新特性](docs/java8/view/Java8新特性.md)
 
 # 重磅福利
 
