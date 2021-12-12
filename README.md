@@ -108,6 +108,17 @@
 
 [020.如何使用Java7提供的ForkJoin框架实现高并发程序？.md](docs/concurrent/view/020.如何使用Java7提供的ForkJoin框架实现高并发程序？.md)
 
+[021.要想学好并发编程，关键是要理解这三个核心问题](docs/concurrent/view/021.要想学好并发编程，关键是要理解这三个核心问题.md)
+
+[022.导致并发编程频繁出问题的“幕后黑手”](docs/concurrent/view/022.导致并发编程频繁出问题的“幕后黑手”.md)
+
+[023.一文解密诡异并发问题的第一个幕后黑手——可见性问题](docs/concurrent/view/023.一文解密诡异并发问题的第一个幕后黑手——可见性问题.md)
+
+[024.解密导致并发问题的第二个幕后黑手——原子性问题](docs/concurrent/view/024.解密导致并发问题的第二个幕后黑手——原子性问题.md)
+
+[025.解密导致并发问题的第三个幕后黑手——有序性问题](docs/concurrent/view/025.解密导致并发问题的第三个幕后黑手——有序性问题.md)
+
+[026.一文秒懂Happens-Before原则.md](docs/concurrent/view/026.一文秒懂Happens-Before原则.md)
 
 ## 架构师进阶系列
 
