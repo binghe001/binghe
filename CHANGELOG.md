@@ -1,3 +1,10 @@
+### 2021-12-12
+
+更新[architect]专栏下的如下文章。  
+* [架构师与高级开发工程师的分水岭是啥？](docs/architect/view/001.架构师与高级开发工程师的分水岭是啥？.md)
+* [JVM整体架构与调优参数说明](docs/architect/view/002.JVM整体架构与调优参数说明.md)
+* [JVM逃逸分析](docs/architect/view/003.逃逸分析.md)
+
 ### 2021-12-09
 
 * [提交Java8新特性完整文档](docs/java8/view/Java8新特性.md)

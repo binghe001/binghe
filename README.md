@@ -109,6 +109,14 @@
 [020.如何使用Java7提供的ForkJoin框架实现高并发程序？.md](docs/concurrent/view/020.如何使用Java7提供的ForkJoin框架实现高并发程序？.md)
 
 
+## 架构师进阶系列
+
+[001.架构师与高级开发工程师的分水岭是啥？](docs/architect/view/001.架构师与高级开发工程师的分水岭是啥？.md)
+
+[002.JVM整体架构与调优参数说明](docs/architect/view/002.JVM整体架构与调优参数说明.md)
+
+[003.JVM逃逸分析](docs/architect/view/003.逃逸分析.md)
+
 ## Java8系列
 
 [Java8新特性](docs/java8/view/Java8新特性.md)
